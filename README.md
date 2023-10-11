@@ -17,7 +17,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="2.3%" /> Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kminwo-o&langs_count=10&layout=compact&theme=dark&hide_border=true&hide=javascript,html,typescript)](https://github.com/Kminwo-o/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kminwo-o&langs_count=10&layout=compact&theme=dark&hide_border=true&hide=javascript,typescript)](https://github.com/Kminwo-o/github-readme-stats)
 
 **Language**<br>
 
