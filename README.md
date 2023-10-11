@@ -1,9 +1,8 @@
 <!--인사-->
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello world!</h1>
 <!--소개-->
-<h3><b>사용자 경험 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" /></b> 을 생각하는 <br>
-  <b>  프론트엔드 개발자</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2.35%" /> <br>
-  권민우 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="24" height="24" /></h3><br>
+<h3> 메모리 최적화와 성능 개선을 통한<br>사용자 경험 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" /></b> 을 중요시하는 <br>
+  <b>  백엔드 개발자</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2.35%" /> 권민우 입니다.</h3><br>
 
 <!--링크-->
 <div align="end">
