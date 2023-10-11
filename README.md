@@ -66,37 +66,18 @@
    </thead>
    <tbody>
      <tr>
-       <td rowspan="1">App Programming</td>
-       <td><a href="">소비 분석 게이미피케이션 서비스</a></td>
+       <td rowspan="1">Backend</td>
+       <td><a href="https://github.com/Kminwo-o/GudgeMent">소비 분석 게이미피케이션 서비스 "거지먼트"</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
-       <td>회원 관리, 데이터 시각화 기능 및 화면 구현</td>
-       <td>React Native React Query TypeScript Tailwind css</td>
+       <td>회원 관리(JWT,Oauth2.0), 데이터 시각화 작업, 데이터 분석, Firebase 알림, </td>
+       <td>SpringBoot, MySql, Jwt, Oauth2.0, Flask, pandas <br> Firebase, JPA</td>
      </tr>
      <tr>
-       <td rowspan="2">Web Programming</td>
-       <td><a href="https://github.com/kanghaeven/Petmily">Petmily<br>반려동물 큐레이션 ∙ <br>소셜 네트워크 서비스</a></td>
-       <td>2023.07 ~ 2023.08 <br>(7 weeks)</td>
-       <td>실시간 1:1 채팅, <br>이미지 파일 통신, <br>소셜 네트워크 <br>기능 및 화면 구현</td>
-       <td>React Recoil Tailwind css</td>
-     </tr>
-     <tr>
-       <td><a href="https://github.com/JobGPT/JobGPT">JobGPT <br>회사 정보 수집 ∙ <br>제공 서비스</td>
+       <td rowspan="1">Backend</td>
+       <td> <a href="https://github.com/Kminwo-o/Coala">코딩장비 중고렌탈 및 거래 서비스 "Coala"<br></td>
        <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
-       <td>회원가입 로그인 <br>기능 및 화면 구현</td>
-       <td>React</td>
-     </tr>
-     <tr>
-       <td rowspan="2">UIUX Design & <br>Web Publishing</td>
-       <td><a href="https://github.com/kanghaeven/WONSOJU_BX">원소주 BX <br>정적 웹 사이트 구현</a></td>
-       <td>2022.08 ~ 2022.09 <br>+ 2022.12 (12 weeks)</td>
-       <td>웹 디자인 및 퍼블리싱</td>
-       <td>HTML5 CSS3</td>
-     </tr>
-     <tr>
-       <td><a href="https://www.behance.net/gallery/158137833/Cake-Redesign-language-learning-social-app">CAKE 언어 학습 앱 <br>리디자인</a></td>
-       <td>2022.10 ~ 2022.11 <br>(8 weeks)</td>
-       <td>UI/UX 개선</td>
-       <td>Figma</td>
+       <td>커뮤니티 게시판 구현 (좋아요, 댓글, 사진) <br>Amazon S3 구축</td>
+       <td>Amazon S3, JPA, SpringBoot</td>
      </tr>
   </tbody>
 </table>
