@@ -108,4 +108,4 @@
 
 #### Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/kwmw0427/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwmw0427)](https://solved.ac/kwmw0427/)
