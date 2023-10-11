@@ -3,29 +3,25 @@
 <!--소개-->
 <h3><b>사용자 경험 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" /></b> 을 생각하는 <br>
   <b>  프론트엔드 개발자</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2.35%" /> <br>
-  권민우우 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="24" height="24" /></h3><br>
+  권민우 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="24" height="24" /></h3><br>
 
 <!--링크-->
 <div align="end">
-    <a target="_blank" href="https://velog.io/@kanghaeven"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white" /></a>
+    <a target="_blank" href="https://velog.io/@kwmw0427"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white" /></a>
 <!--     <a target="_blank" href="https://jet-magnesium-b5a.notion.site/PORTFOLIO-e0b89103ba144876925dd29155dc700c?pvs=4"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a> -->
-    <a target="_blank" href="mailto:aubrienid@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white" /></a>
-    <a target="_blank" href="mailto:meerhae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>  
+    <a target="_blank" href="mailto:kwmw0427@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white" /></a>
+    <a target="_blank" href="mailto:kwmw0427@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>  
 </div>
 
 <!--기술 스택-->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="2.3%" /> Skills
 
-<a href="https://github.com/kanghaeven/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanghaeven&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/Kminwo-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kminwo-o&layout=compact&theme=buefy&hide_border=true" /></a>
 
 **Language**<br>
 
-- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
-  ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
-  ![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
-  ![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
 
 **Technical Skills & Technologies** <br>
 
@@ -112,4 +108,4 @@
 
 #### Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/goqls10602/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goqls10602)](https://solved.ac/kwmw0427/)
