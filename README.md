@@ -29,22 +29,15 @@
 
 **Technical Skills & Technologies** <br>
 
-- Front-end frameworks & libraries <br>
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
+- Back-end frameworks & libraries <br>
+  ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-squaree&logo=Pandas&logoColor=white)
 
 - State Management Tools <br>
-  ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=flat-squaree&logo=recoil&logoColor=white)
-
-- Front-end UI frameworks & libraries <br>
-  ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 - Collaborations <br>
   ![Static Badge](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/notion-000000?logo=notion)
   ![Static Badge](https://img.shields.io/badge/jira-0052CC?logo=jira)
-
 
 
 <br>
