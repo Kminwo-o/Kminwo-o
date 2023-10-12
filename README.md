@@ -22,13 +22,13 @@
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/java-da0d0d?style=flat-squaree&logo=java&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/springBoot-6DB33F?style=flat-squaree&logo=springBoot&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-092E20?style=flat-squaree&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-000000?style=flat-squaree&logo=flask&logoColor=white)
 
 **Technical Skills & Technologies** <br>
 
 - Back-end frameworks & libraries <br>
+  ![SpringBoot](https://img.shields.io/badge/springBoot-6DB33F?style=flat-squaree&logo=springBoot&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-092E20?style=flat-squaree&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-000000?style=flat-squaree&logo=flask&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-squaree&logo=Pandas&logoColor=white)
 
 - State Management Tools <br>
