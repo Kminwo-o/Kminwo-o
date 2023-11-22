@@ -64,17 +64,24 @@
      </tr>
    </thead>
    <tbody>
+      <tr>
+       <td rowspan="1">Web Programming</td>
+       <td> <a href="https://github.com/Kminwo-o/SeniorNaver">시니어를 위한 웹 플랫폼 "SeniorNaver"<br></td>
+       <td>2023.10 ~ 2023.11 <br>(6 weeks)</td>
+       <td>∙ 장소 검색  ∙ 일자리 검색  ∙ 유행어 사전  ∙ 백엔드 서버 배포</td>
+       <td>SpringBoot, JPA, Docker, Jenkins</td>
+     </tr>
      <tr>
-       <td rowspan="1">Backend</td>
+       <td rowspan="1">App Programming</td>
        <td><a href="https://github.com/Kminwo-o/GudgeMent">소비 분석 게이미피케이션 서비스 "거지먼트"</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
-       <td>회원 관리(JWT,Oauth2.0), 데이터 시각화 작업, 데이터 분석, Firebase 알림, </td>
+       <td>회원 관리(JWT,Oauth2.0)  ∙ 데이터 시각화 작업  ∙ 데이터 분석  ∙ Firebase 알림, </td>
        <td>SpringBoot, MySql, Jwt, Oauth2.0, Flask, pandas <br> Firebase, JPA</td>
      </tr>
      <tr>
-       <td rowspan="1">Backend</td>
+       <td rowspan="1">Web Programming</td>
        <td> <a href="https://github.com/Kminwo-o/Coala">코딩장비 중고렌탈 및 거래 서비스 "Coala"<br></td>
-       <td>2023.06 ~ 2023.07 <br>(5 weeks)</td>
+       <td>2023.06 ~ 2023.07 <br>(6 weeks)</td>
        <td>커뮤니티 게시판 구현 (좋아요, 댓글, 사진) <br>Amazon S3 구축</td>
        <td>Amazon S3, JPA, SpringBoot</td>
      </tr>
