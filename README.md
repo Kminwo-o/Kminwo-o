@@ -75,7 +75,7 @@
        <td rowspan="1">App Programming</td>
        <td><a href="https://github.com/Kminwo-o/GudgeMent">소비 분석 게이미피케이션 서비스 "거지먼트"</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
-       <td>회원 관리(JWT,Oauth2.0)  ∙ 데이터 시각화 작업  ∙ 데이터 분석  ∙ Firebase 알림, </td>
+       <td>회원 관리(JWT,Oauth2.0)  ∙ 데이터 시각화  ∙ 데이터 분석  ∙ Firebase 알림, </td>
        <td>SpringBoot, MySql, Jwt, Oauth2.0, Flask, pandas <br> Firebase, JPA</td>
      </tr>
      <tr>
