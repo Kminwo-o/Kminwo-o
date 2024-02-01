@@ -93,3 +93,7 @@
 #### Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwmw0427)](https://solved.ac/kwmw0427/)
+**오늘 푼 문제**
+| 25710 | 점수 계산 |
+|:----:|:---------:|
+| [25710](https://www.acmicpc.net/problem/25710) | [나의 풀이]([https://www.acmicpc.net/problem/14425](https://github.com/Kminwo-o/BaekJoon-Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/25710.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0/%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0.java)https://github.com/Kminwo-o/BaekJoon-Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/25710.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0/%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0.java) |
