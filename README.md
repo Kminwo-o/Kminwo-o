@@ -93,6 +93,7 @@
 #### Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwmw0427)](https://solved.ac/kwmw0427/)
+
 **오늘 푼 문제**
 | 문제번호 | 문제이름 | 나의 풀이 |
 |:----:|:---------:|
