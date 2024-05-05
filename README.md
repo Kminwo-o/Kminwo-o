@@ -49,6 +49,12 @@
 
 <br>
 
+### Career
+
+오브젠 소프트웨어 개발 2024.04 ~
+
+<br>
+
 <!--프로젝트-->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="2.3%" /> Projects
