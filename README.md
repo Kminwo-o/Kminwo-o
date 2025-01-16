@@ -27,7 +27,6 @@
 
 - Back-end frameworks & libraries <br>
   ![SpringBoot](https://img.shields.io/badge/springBoot-6DB33F?style=flat-squaree&logo=springBoot&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-092E20?style=flat-squaree&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-000000?style=flat-squaree&logo=flask&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-squaree&logo=Pandas&logoColor=white)
 
